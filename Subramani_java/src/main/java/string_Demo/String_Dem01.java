@@ -111,7 +111,7 @@ public class String_Dem01 {
 		
 		for(int i=0 ; i<Reverse.length(); i++)
 		{
-			if(tarket == Reverse.charAt(i))
+			//if(tarket == Reverse.charAt(i))
 			{
 				ch =ch+Reverse.charAt(i);
 				count ++;
